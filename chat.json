@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hey There' button positioned within the app interface?\", \"option1\": \"On the main screen near the top\", \"option2\": \"At the bottom of the screen within easy thumb reach\"}, {\"question 2\": \"What functionality should occur when a user taps the 'Hey There' button?\", \"option1\": \"Open a chat interface\", \"option2\": \"Display a greeting message or information\"}], \"input_token_count\": 261, \"output_token_count\": 102, \"time_taken\": \"0:00:03.725746\"}",
+        "message_id": "guest25072024161525",
+        "timestamp": "25072024161530",
+        "component_file_name": "simple_footer_component_1721923972",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Great, I'll add a button that says \"Hey there\".",
         "message_id": "guest25072024161525",
